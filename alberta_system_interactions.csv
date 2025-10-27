@@ -1,0 +1,17 @@
+﻿H1,T1,K1,Oil and gas workers use extractive equipment and technologies
+H1,H4,?,Oil and gas workers patronize support sector workers' businesses
+T1,T2,K1,Extractive equipment facilitates surface mining
+T1,T3,K1,Extractive equipment facilitates in-situ mining
+H3,T4,K1,Secondary sector workers use refining/processing equipment
+T4,E2,K1,Refining/processing equipment used on crude oil/bitumen
+T4,T9,K1,Refining/processing equipment produces petroleum products
+E4,T2,K1,Water used in surface mining
+E4,T3,K1,water used in in-situ mining
+T5,E6,K3,CCS technologies capture GHGs
+T2,E6,K3,GHGs released from surface mining
+T3,E6,K3,GHGs released from in situ mining
+T6,E1,K1?,Pipelines carry crude oil and bitumen
+T6,E9,K1?,Pipelines carry petroleum products
+H2,E1,?,Domestic and international buyers purchase crude oil and bitumen
+H2,T9,?,Domestic and international buyers purchase petroleum products
+E2,E1,I2,Oil/tar sands produce crude oil and bitumen
