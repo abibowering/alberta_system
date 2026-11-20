@@ -1,0 +1,69 @@
+﻿H3,E2,I1,Local population live in local ecosystems by mining sites
+H4,E2,I4,Indigenous communities live and derive benefit from local ecosystems
+H1,H3,I1,Oil and gas extraction workers patronize local population businesses
+H2,H3,I1,Oil and gas refining/processing workers patronize local population businesses
+H6,H1,I1,Oil production companies employ Oil and gas extraction workers
+H6,H2,I1,Oil production companies employ Oil and gas refining/processing workers
+H7,H1,I2,Natural Gas companies employ Oil and gas extraction workers
+H7,H2,I2,Natural Gas companies employ Oil and gas refining/processing workers
+H10,H6,I5,Provincial government grants drilling rights to oil production companies
+H10,H7,I5,Provincial government grants drilling rights to natural gas production companies
+H6,H10,I1,Oil Production companies pay royalties to the provincial government
+H7,H10,I2,Natural gas production companies pay royalties to the provincial government
+T4,H8,I2,Natural gas sold to provincial resource buyers
+T4,H6,I2,Natural gas sold to oil production companies
+T3,H8,I1,Crude oil sold to provincial resource buyers
+T3,H9,I1,Crude oil sold to extra-provincial resource buyers
+H1,T1,K1,Oil and gas extraction workers use extractive equipment and technologies
+E1,T1,K1,Fossil fuel reserves are input to extractive equipment and technologies
+H2,T2,K2,Oil and gas refining/processing workers use refining/processing equipment and technologies
+H2,T5,K2,Oil and gas refining/processing workers build and use transport infrastructure
+H3,T4,I2,Local population use natural gas for heating and electricity
+T2,T6,K2,Refining equpiment/technologies produces chemical feedstocks
+T1,T8,I6,Extractive equipment and technologies release GHGs
+T2,T8,I6,Refining equpiment/technologies release GHGs
+T5,T3,K2,Transport infrastructure moves crude oil to faraway markets
+T5,E2,I6,Transport infrastructure causes oil spills in local ecosystems
+T5,E3,K5,Transport infrastructure causes oil spills in faraway ecosystems
+T1,E2,I6,Extractive equipment and technologies harm local ecosystems
+T2,E2,I6,Refining equipment/technologies harm local ecosystems
+T2,E3,K5,Refining equipment/technologies harm faraway ecosystems
+T2,T3,K2,Refining equipment processes crude oil
+E2,H4,I4,Local ecosystems provide services to Indigenous communities
+E2,H3,K5,Local ecosystems provide services to local population
+T4,H3,I2,Natural gas provides heat and electricity to local populations
+T3,T1,K1,Crude oil reserves and makeup impact operations and longevity of extractive equipment
+T4,T1,K1,Natural gas used in extractive techniques
+T4,T2,K2,Natural gas used in refining processes
+T3,T2,K2,Crude oil makeup impacts type of refining equipment
+E2,E4,K3,Local ecosystems provide renewable energy resources
+E4,T7,K3,"Renewable energy resources are inputs to renewable energy tech, influence performance"
+H5,T7,K3,Renewable energy workers install and maintain renewable energy technologies
+T7,H8,I3,Renewable energy sold to provincial resource buyers
+E2,E1,K1,Local ecosystems provide fossil fuel reserves
+T8,E3,K6,GHGs have climate impacts on faraway ecosystems
+T8,E2,K6,GHGs have climate impacts on local ecosystems
+T3,H10,I7,Crude oil contributes to provincial government budget
+T4,H10,I7,Natural gas contributes to provincial government budget
+H10,H3,I7,Provincial government provides services to local populations
+H6,H4,I4,Oil production companies pay benefits to Indigenous Communities
+H7,H4,I4,Natural gas production companies pay benefits to Indigenous Communities
+H10,H4,I4,Provincial government direct transfers benefits to Indigenous Communities
+T1,H1,K6,Extractive equipment causes health burden to extraction workers
+T2,H2,K6,Refining/processing equipment causes health burden to refinery workers
+H1,H5,K4,Upstream oil and gas workers become renewable energy workers
+H2,H5,K4,Down and midstream oil and gas workers become renewable energy workers
+H6,T9,I6,Oil production companies invest in carbon capture technologies
+H7,T9,I6,Natural gas production companies invest in carbon capture technologies
+T9,T8,I6,Carbon capture technologies reduce greenhouse gas emissions
+T9,T1,I6,Carbon capture utilization technologies enhance recovery of oil
+H10,T9,I6,Provincial government invests in carbon capture technologies
+E2,T10,K7,Timber byproduct from ecosystem is used as biomass feedstock
+E5,T10,K7,Agricultural byproduct is used as biomass feedstock
+T9,T10,K7,Captured CO2 is used for chemical feedstock
+T10,T11,K7,Biomass feedstock is input to alternative chemistry processing equipment
+T4,T11,I2,Natural gas provides energy for chemical processing equipment
+T7,T11,I3,Renewable energy powers chemical processing equipment
+H11,T11,K7,Chemical production workers use processing equipment
+T11,T6,K7,Alternative processing equipment produces  feedstock chemicals
+T6,H12,I8,Feedstock chemicals are sold to chemical manufacturers
